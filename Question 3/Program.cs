@@ -1,4 +1,6 @@
-﻿string sentence = "The quick brown fox jumps over the lazy dog";
+﻿//A program that translates a text to Pig Latin and back.
+
+string sentence = "The quick brown fox jumps over the lazy dog";
 
 Console.WriteLine(sentence+ "\n");
 
